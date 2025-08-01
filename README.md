@@ -1,6 +1,6 @@
 # NeutrinoPhysics
 
-Welcome to the **NeutrinoPhysics** repository! This repository contains Python scripts and associated code to generate plots related to neutrino oscillations and the Mikheyev-Smirnov-Wolfenstein (MSW) effect. The focus is on modeling two-flavor and three-flavor neutrino oscillations, as well as visualizing the MSW effect with respect to the mixing angle parameter \(\sin^2 2\theta\) and the matter potential term \(2E V / \Delta m^2\).
+Welcome to the **NeutrinoPhysics** repository! This repository contains Python scripts and associated code to generate plots related to neutrino oscillations and the Mikheyev-Smirnov-Wolfenstein (MSW) effect. The focus is on modeling two-flavor and three-flavor neutrino oscillations, as well as visualizing the MSW effect with respect to the mixing angle parameter $\(\sin^2 2\theta\)$ and the matter potential term \(2E V / \Delta m^2\).
 
 ## Overview
 
